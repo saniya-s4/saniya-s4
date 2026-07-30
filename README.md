@@ -1,88 +1,52 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Saniya Chakraborty</h1>
 
-# Hi 👋, I'm Saniya Chakraborty
+<h3 align="center">🚀 Full Stack Developer</h3>
 
-### 🚀 Full Stack Developer | AI Enthusiast
+<p align="center">
+Building Modern Web Applications • Exploring AI & Machine Learning
+</p>
 
-💻 Building Intelligent Web Applications with AI
-
-🌱 Currently Learning **Java DSA • Node.js • Express.js • AI/ML**
-
-✨ *Learning • Building • Growing Every Day*
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=8A2BE2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Enthusiast;Java+DSA+Learner;Python+Developer;Building+Intelligent+Web+Applications" />
-
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Java+DSA+Learner;Building+Modern+Web+Applications;Always+Learning+Always+Building" />
+</p>
 
 ---
 
-## 🙋‍♀️ About Me
+## 👩‍💻 About Me
 
-🎓 B.Tech CSE Student
-
-💡 Passionate about Full Stack Development & Artificial Intelligence
-
-☕ Solving Data Structures & Algorithms using Java
-
-🐍 Building AI Applications using Python & Streamlit
-
-🚀 Currently exploring Backend Development with Node.js & Express.js
-
-🎯 Goal: Become a Full Stack AI Engineer
+- 🎓 B.Tech CSE Student
+- 💻 Passionate about Full Stack Development
+- 🤖 Exploring AI & Machine Learning
+- ☕ Solving DSA using Java
+- 🌱 Currently learning Node.js, Express.js & AI
+- 🚀 Building real-world projects
 
 ---
 
-# 💻 Tech Stack
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express,java,python,git,github,vscode,idea" />
+</p>
+
+### 🤖 AI & APIs
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,java,python,nodejs,express,git,github,vscode,idea" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge"/>
 
 </p>
 
 ---
 
-# 🤖 AI & Tools
-
-- 🧠 Streamlit
-- 🤖 OpenAI API
-- ✨ Gemini API
-- ⚡ Groq API
-
----
-
-# 🚀 Featured Projects
-
-### 🤖 AI Teaching Assistant
-An AI-powered teaching assistant built with Python, Streamlit and Groq API.
-
----
-
-### ✋ Hand Gesture Controller
-Control system volume and screen brightness using OpenCV, MediaPipe and Python.
-
----
-
-### 🗳️ Election Process Education
-An AI-powered educational application for election awareness.
-
----
-
-### ☕ Java DSA Journey
-Collection of Java DSA solutions from NeetCode and LeetCode.
-
----
-
-### 🛒 Amazon Clone
-Responsive landing page using HTML & CSS.
-
----
-
-# 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=saniya-s4&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=saniya-s4&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saniya-s4&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -90,7 +54,7 @@ Responsive landing page using HTML & CSS.
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
 
@@ -100,42 +64,41 @@ Responsive landing page using HTML & CSS.
 
 ---
 
-# 🏆 GitHub Trophies
+## 📌 Current Focus
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=saniya-s4&theme=tokyonight&no-frame=true&column=4"/>
-
-</p>
+- 🌐 Full Stack Development
+- 🤖 AI & Machine Learning
+- ☕ Java DSA
+- 🚀 Open Source Learning
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/saniya-s4">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
 </a>
 
 <a href="https://www.linkedin.com/in/saniya-chakraborty-661417404">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-<a href="mailto:your-email@example.com">
-<img src="https://img.icons8.com/color/48/gmail-new.png" height="45"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
 
 </p>
 
 ---
 
-<div align="center">
+<p align="center">
 
-### ⭐ Thanks for Visiting!
+<img src="https://komarev.com/ghpvc/?username=saniya-s4&label=Profile%20Views&color=7c3aed&style=for-the-badge"/>
 
-*"Code • Learn • Build • Repeat"* 🚀
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
+<h3 align="center">
+✨ Thanks for Visiting My Profile ✨
+</h3>
 
-</div>
+<p align="center">
+<i>Code • Learn • Build • Repeat 🚀</i>
+</p>
