@@ -1,86 +1,98 @@
-<div align="center">
-  <!-- Custom Purple Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=220&section=header&text=HELLO%20WORLD&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=WELCOME%20TO%20MY%20PROFILE&descAlignY=62&descSize=18" width="100%" />
-</div>
+<h1 align="center">Hi 👋, I'm Saniya Chakraborty</h1>
 
-<table border="0" width="100%">
-  <tr>
-    <td width="70%" valign="top">
+<h3 align="center">🚀 Full Stack Developer</h3>
 
-## 💫 I'M SANIYA!
-*<b>Full Stack Developer & AI Enthusiast</b>*
+<p align="center">
+Building Modern Web Applications • Exploring AI & Machine Learning
+</p>
 
-I am a B.Tech CSE 3rd Year student passionate about building scalable web applications and integrating AI to solve real-world problems!
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=BB86FC&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Java+DSA+Learner;Node.js+Learner;Always+Learning+Always+Building" />
+</p>
 
-* 🎓 **Student of Computer Science & Engineering** (3rd Year)
-* 🌱 **Currently focusing on:** Data Structures & Algorithms (DSA) in Java & Web Development
-* 🛠️ **Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js, Python, Java
-* 🚀 **Goal:** Building the AI-powered future through innovative full-stack solutions
-* 🧩 **Coding Profiles:** Active problem solver on [LeetCode](https://leetcode.com/u/Saniya_666/)
-* 🤝 **Open for:** Open-source contributions and full-stack/AI projects
+---
 
-<br/>
+## 👩‍💻 About Me
 
-<a href="https://linkedin.com/in/saniya-chakraborty-661417404">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+- 🎓 B.Tech CSE Student
+- 💻 Passionate about Full Stack Development
+- 🤖 Exploring Artificial Intelligence & Machine Learning
+- ☕ Solving DSA using Java
+- 🌱 Currently learning Node.js, Express.js & AI
+- 🚀 Building real-world projects
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express,java,python,git,github,vscode,idea&theme=dark"/>
+</p>
+
+---
+
+## 🤖 AI & Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/OpenAI-111827?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Streamlit-111827?style=for-the-badge&logo=streamlit&logoColor=FF4B4B"/>
+
+<img src="https://img.shields.io/badge/Groq-111827?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Gemini-111827?style=for-the-badge&logo=google&logoColor=8AB4F8"/>
+
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- 🌐 Full Stack Development
+- 🤖 AI & Machine Learning
+- ☕ Java DSA
+- ⚡ Backend Development
+- 🚀 Open Source
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/saniya-s4">
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
 </a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/saniya-chakraborty-661417404">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+</a>
+
+&nbsp;&nbsp;
+
 <a href="https://leetcode.com/u/Saniya_666/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" width="45"/>
 </a>
 
-  </td>
-  <td width="30%" align="center" valign="middle">
-    <!-- Right side illustration GIF -->
-    <img src="https://media.giphy.com/media/qgQUGG4dbv5BLDYnrA/giphy.gif" width="100%" alt="Developer coding" />
-  </td>
-  </tr>
-</table>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=saniya-s4&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
+</p>
 
 ---
 
-### 🛠️ Skillset & Technologies
+<p align="center">
 
-<div align="center">
+<img src="https://komarev.com/ghpvc/?username=saniya-s4&label=Profile+Views&color=7C3AED&style=for-the-badge"/>
 
-| Category | Badges |
-| :--- | :--- |
-| **Languages** | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> |
-| **Web Dev** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> |
-| **Problem Solving** | <img src="https://img.shields.io/badge/DSA-Data_Structures-purple?style=for-the-badge"/> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/> |
-
-</div>
+</p>
 
 ---
 
-### 📊 Performance & Statistics
+<h3 align="center">
+✨ Thanks for Visiting My Profile ✨
+</h3>
 
-<div align="center">
-  <!-- LeetCode Card in Dark Mode -->
-  <a href="https://leetcode.com/u/Saniya_666/">
-    <img height="170em" src="https://leetcode-stats-starters.vercel.app/api?username=Saniya_666&theme=dark" alt="LeetCode Stats" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <!-- GitHub Dark Theme Stats -->
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=saniya-s4&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saniya-s4&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saniya-s4&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-<div align="center">
-  <sub>Designed with ❤️ by <b>Saniya Chakraborty</b> | Building the AI-Powered Future</sub>
-</div>
+<p align="center">
+Code • Learn • Build • Repeat 🚀
+</p>
