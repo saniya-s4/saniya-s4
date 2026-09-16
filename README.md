@@ -79,27 +79,26 @@
 
 ---
 
-### 📊 GitHub Stats
+
+
+### 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saniya-s4&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saniya-s4&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saniya-s4&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saniya-s4&layout=compact&theme=radical&hide_border=true" width="45%" />
 </p>
 
----
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saniya-s4&theme=redical&hide_border=true&area=true" alt="Contribution Graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saniya-s4&theme=redical&hide_border=true&area=true" width="95%" />
 </p>
-
----
 
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saniya-s4/saniya-s4/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/saniya-s4/saniya-s4/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
