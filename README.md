@@ -1,196 +1,185 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Saniya%20Chakraborty&fontSize=42&fontAlign=50&fontAlignY=40&color=gradient&customColorList=6,12,20,24,30"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=SANIYA%20CHAKRABORTY&fontSize=42&fontAlign=50&fontAlignY=40&color=0D1117&fontColor=FFFFFF&animation=fadeIn"/>
 
-# Hi 👋, I'm Saniya Chakraborty
+# `Saniya Chakraborty`
 
-### 💻 Aspiring Software Developer | 🤖 AI/ML Enthusiast
+### `Aspiring Software Developer` · `AI/ML Enthusiast`
 
-<p align="center">
-B.Tech CSE Student • Java DSA • Backend Development • Machine Learning
+<p>
+Building software. Solving problems. Exploring AI.
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1000&color=C792EA&center=true&vCenter=true&width=700&lines=Java+DSA+Learner;AI+%26+Machine+Learning+Enthusiast;Backend+Development+Learner;Building+Real-World+Projects;Always+Learning+%26+Building"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Java+%7C+Data+Structures+%26+Algorithms;Python+%7C+Machine+Learning;Node.js+%7C+Backend+Development;Building+Real-World+Projects;Learning+%7C+Building+%7C+Improving"/>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## `01` — About Me
 
-* 🎓 B.Tech CSE student
-* ☕ Practicing **Data Structures & Algorithms using Java**
-* 🤖 Exploring **Artificial Intelligence & Machine Learning**
-* 🌐 Learning **Node.js, Express.js & Backend Development**
-* 🚀 Building and deploying real-world projects
-* 💡 Interested in solving problems through software and AI
+```text
+B.Tech CSE Student
+────────────────────────────────────────────
+
+☕  Java + Data Structures & Algorithms
+🤖  Artificial Intelligence & Machine Learning
+⚙️  Node.js + Express.js + Backend Development
+🚀  Building & Deploying Real-World Projects
+```
+
+> I enjoy turning ideas into working software and continuously
+> improving my problem-solving and development skills.
 
 ---
 
-## 🛠️ Tech Stack
+## `02` — Tech Stack
 
-<p align="center">
+### Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,nodejs,express,git,github,vscode,idea&theme=dark"/>
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript&theme=dark"/>
+</p>
 
+### Web & Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,nodejs,express&theme=dark"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark"/>
 </p>
 
 ---
 
-## 🤖 AI / ML & Developer Tools
+## `03` — AI / ML
 
-<p align="center">
+<p align="left">
 
 <img src="https://skillicons.dev/icons?i=python,sklearn&theme=dark"/>
 
-<img src="https://img.shields.io/badge/Streamlit-111827?style=for-the-badge&logo=streamlit&logoColor=FF4B4B"/>
+<img src="https://img.shields.io/badge/Streamlit-0D1117?style=for-the-badge&logo=streamlit&logoColor=FFFFFF"/>
 
-<img src="https://img.shields.io/badge/Gemini-111827?style=for-the-badge&logo=google&logoColor=8AB4F8"/>
+<img src="https://img.shields.io/badge/Gemini-0D1117?style=for-the-badge&logo=google&logoColor=FFFFFF"/>
 
-<img src="https://img.shields.io/badge/Groq-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Groq-0D1117?style=for-the-badge"/>
 
 </p>
 
 ---
 
-## 🎯 Current Focus
+## `04` — Featured Projects
 
-```text
-☕ Java + Data Structures & Algorithms
-🤖 Machine Learning & AI Applications
-📚 Node.js + Express.js + Backend Development
-🚀 Building & Deploying Projects
-```
+<table>
+<tr>
 
----
-
-## 🚀 Featured Projects
+<td width="50%" valign="top">
 
 ### 🤖 RecoverAI
 
 **AI-powered payment recovery agent**
 
-* AI-assisted payment recovery workflow
-* Built with Node.js and Google ADK
-* Includes deterministic guardrails and escalation logic
-* Designed for TEST/SIMULATION mode
+```text
+Node.js
+Google ADK
+Gemini
+Deterministic Guardrails
+```
 
-🔗 [View Repository](https://github.com/saniya-s4/RecoverAI)
+AI-assisted payment recovery system designed for TEST/SIMULATION mode with retry, recovery and escalation logic.
 
----
+<a href="https://github.com/saniya-s4/RecoverAI">
+<img src="https://img.shields.io/badge/View%20Project-FFFFFF?style=for-the-badge&logo=github&logoColor=000000"/>
+</a>
 
-### 🩺 Breast Cancer Detection System
+</td>
 
-**Machine Learning classification application**
+<td width="50%" valign="top">
 
-* Built using Python and scikit-learn
-* Interactive Streamlit interface
-* ML-based classification workflow
-* Focused on model evaluation and deployment
+### 🩺 Breast Cancer Detection
 
----
+**Machine Learning Application**
+
+```text
+Python
+Scikit-learn
+Streamlit
+Machine Learning
+```
+
+A classification-based ML application with an interactive Streamlit interface and model evaluation workflow.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### 🌦️ Weather App
 
-**Web application for weather information**
+**Web Application**
 
-* HTML
-* CSS
-* JavaScript
-* API integration
+```text
+HTML
+CSS
+JavaScript
+API
+```
 
----
+A responsive weather application using API-based weather data.
 
-## 📚 DSA Progress
+</td>
 
-<p align="center">
+<td width="50%" valign="top">
 
-<a href="https://leetcode.com/u/Saniya_666/">
-<img src="https://img.shields.io/badge/LeetCode-DSA%20in%20Java-orange?style=for-the-badge&logo=leetcode"/>
-</a>
+### ✋ Gesture Controller
 
-</p>
+**Computer Vision Project**
 
-Currently focusing on:
+```text
+Python
+OpenCV
+MediaPipe
+```
 
-**Arrays → HashMap → Sliding Window → Binary Search → Stack/Queue → Trees → Recursion**
+A computer vision project using hand gestures for system control.
 
----
+</td>
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=saniya-s4&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=saniya-s4&theme=tokyonight&hide_border=true&border_radius=10"/>
-
-</p>
+</tr>
+</table>
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=saniya-s4&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=C792EA&line=BB86FC&point=FFFFFF"/>
-
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/saniya-s4" target="_blank">
-<img src="https://skillicons.dev/icons?i=github&theme=dark" width="48"/>
-</a>
-
-   
-
-<a href="https://www.linkedin.com/in/saniya-chakraborty-661417404" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48"/>
-</a>
-
-   
-
-<a href="https://leetcode.com/u/Saniya_666/" target="_blank">
-<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" width="45"/>
-</a>
-
-</p>
-
----
-
-## 📊 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=saniya-s4&label=Profile%20Views&color=8A2BE2&style=for-the-badge"/>
-
-</p>
-
----
+## `05` — DSA Journey
 
 <div align="center">
 
-### 💜 Thanks for Visiting!
+### `Java → DSA → Problem Solving`
 
-*"Learning never stops. Building never ends."*
+<br>
+
+<img src="https://img.shields.io/badge/LeetCode-127%2B%20Problems-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFFFFF"/>
 
 </div>
 
-<p align="center">
+Currently working through:
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,12,20,24,30"/>
-
-</p>
+```text
+Arrays
+   ↓
+HashMap
+   ↓
+Sliding Window
+   ↓
+Binary Search
+   ↓
+Stack / Queue
+   ↓
+Recursi
+```
