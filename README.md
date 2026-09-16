@@ -79,20 +79,17 @@
 
 ---
 
-
-
 ### 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saniya-s4&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saniya-s4&layout=compact&theme=radical&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saniya-s4&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saniya-s4&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" width="45%" />
 </p>
-
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saniya-s4&theme=redical&hide_border=true&area=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saniya-s4&theme=radical&hide_border=true&area=true" width="95%" />
 </p>
 
 ### 🐍 Contribution Snake
